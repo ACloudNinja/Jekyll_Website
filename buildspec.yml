@@ -5,9 +5,7 @@ phases:
     runtime-versions:
       ruby: 2.6
     commands:
-      - gem update --system
-      - gem install bundler
-      - bundle install
+      - gem install jekyll jekyll-paginate jekyll-sitemap jekyll-gist jekyll-feed jekyll-seo-tag minima
   build:
     commands:
       - echo "******** Building Jekyll site ********"
