@@ -5,6 +5,8 @@ phases:
     runtime-versions:
       ruby: 2.6
     commands:
+      - gem update --system
+      - gem install bundler
       - bundle install
   build:
     commands:
