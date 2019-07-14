@@ -33,7 +33,7 @@ $ brew install packetbeat      # Install the packetbeat formulae.
 $ brew cleanup                 # Remove any older versions of any formula
 {% endhighlight %}
 
-### Summary
+#### Summary
 Congratulations! You have successfully installed Packetbeat on macOS making use of Homebrew. Follow me on any of the different social media platforms and feel free to leave comments.
 
 [1]:https://www.elastic.co/guide/en/beats/packetbeat/current/packetbeat-overview.html
