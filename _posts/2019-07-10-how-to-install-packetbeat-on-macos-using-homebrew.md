@@ -11,7 +11,7 @@ post_image: "/assets/img/my_images/blog/feature-image-homebrew.png"
 This post provides a step-by-step guide with a list of commands on how to install Packetbeat on macOS using Homebrew. Packetbeat is a real-time network packet analyzer that you can use with Elasticsearch.
 
 #### What is Packetbeat?
->“Packetbeat is a real-time network packet analyzer that you can use with Elasticsearch to provide an application monitoring and performance analytics system. Packetbeat completes the Beats platform by providing visibility between the servers of your network. Packetbeat works by capturing the network traffic between your application servers, decoding the application layer protocols (HTTP, MySQL, Redis, and so on), correlating the requests with the responses, and recording the interesting fields for each transaction.” ~ [Packetbeat Documentation][1]
+“Packetbeat is a real-time network packet analyzer that you can use with Elasticsearch to provide an application monitoring and performance analytics system. Packetbeat completes the Beats platform by providing visibility between the servers of your network. Packetbeat works by capturing the network traffic between your application servers, decoding the application layer protocols (HTTP, MySQL, Redis, and so on), correlating the requests with the responses, and recording the interesting fields for each transaction.” ~ [Packetbeat Documentation][1]
 
 #### What is Homebrew?
 Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple’s macOS operating system. It is known as the missing package manager for macOS.
