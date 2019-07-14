@@ -10,19 +10,19 @@ post_image: "/assets/img/my_images/blog/feature-image-homebrew.png"
 
 This post provides a step-by-step guide with a list of commands on how to install Auditbeat on macOS using Homebrew. Auditbeat is a lightweight shipper that you can install on your servers to audit the activities of users and processes on your systems.
 
-### What is Auditbeat?
+#### What is Auditbeat?
 “Auditbeat is a lightweight shipper that you can install on your servers to audit the activities of users and processes on your systems. For example, you can use Auditbeat to collect and centralize audit events from the Linux Audit Framework. You can also use Auditbeat to detect changes to critical files, like binaries and configuration files, and identify potential security policy violations.” ~ [Auditbeat Documentation][1]
 
-### What is Homebrew?
+#### What is Homebrew?
 Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple’s macOS operating system. It is known as the missing package manager for macOS.
 
-### Quick Commands
+#### Quick Commands
 The following is the single command required to install Auditbeat on macOS using Homebrew.
 <pre style="background-color:black;color:white;padding:10px;">
 $ brew install auditbeat 
 </pre>
 
-### Brew Commands
+#### Brew Commands
 This section provide a quick set of commands on how to install Auditbeat on macOS using Homebrew. It is assumed that Homebrew is already installed. If not, please follow this [link][2].
 
 {% highlight shell %}
@@ -33,7 +33,7 @@ $ brew install auditbeat      # Install the auditbeat formulae.
 $ brew cleanup                # Remove any older versions of any formula
 {% endhighlight %}
 
-### Summary
+#### Summary
 Congratulations! You have successfully installed Auditbeat on macOS making use of Homebrew. Follow me on any of the different social media platforms and feel free to leave comments.
 
 [1]:https://www.elastic.co/guide/en/beats/auditbeat/current/auditbeat-overview.html
