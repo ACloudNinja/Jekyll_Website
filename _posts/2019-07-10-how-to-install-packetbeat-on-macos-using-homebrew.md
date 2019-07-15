@@ -5,7 +5,7 @@ date: 2019-07-10 00:00:00 +0200
 tags: brew elasticstack packetbeat homebrew macOS
 categories: [Homebrew]
 author: "andre_mare"
-post_image: "/assets/img/my_images/blog/feature-image-homebrew.png"
+post_image: "/assets/img/my_images/feature-images/feature-image-homebrew.png"
 ---
 
 This post provides a step-by-step guide with a list of commands on how to install Packetbeat on macOS using Homebrew. Packetbeat is a real-time network packet analyzer that you can use with Elasticsearch.

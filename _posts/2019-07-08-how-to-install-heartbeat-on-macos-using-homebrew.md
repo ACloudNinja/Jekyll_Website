@@ -5,7 +5,7 @@ date: 2019-07-08 00:00:00 +0200
 tags: brew elasticstack heartbeat homebrew macOS
 categories: [Homebrew]
 author: "andre_mare"
-post_image: "/assets/img/my_images/blog/feature-image-homebrew.png"
+post_image: "/assets/img/my_images/feature-images/feature-image-homebrew.png"
 ---
 
 This post provides a step-by-step guide with a list of commands on how to install Heartbeat on macOS using Homebrew. Heartbeat is a lightweight daemon that you install on a remote server to periodically check the status of your services and determine whether they are available.

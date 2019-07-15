@@ -5,7 +5,7 @@ date: 2019-07-09 00:00:00 +0200
 tags: brew elasticstack auditbeat homebrew macOS
 categories: [Homebrew]
 author: "andre_mare"
-post_image: "/assets/img/my_images/blog/feature-image-homebrew.png"
+post_image: "/assets/img/my_images/feature-images/feature-image-homebrew.png"
 ---
 
 This post provides a step-by-step guide with a list of commands on how to install Auditbeat on macOS using Homebrew. Auditbeat is a lightweight shipper that you can install on your servers to audit the activities of users and processes on your systems.
