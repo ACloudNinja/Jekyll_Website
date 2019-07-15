@@ -12,7 +12,5 @@ phases:
       - bundle install
       - echo "******** Building Jekyll site ********"
       - jekyll build
-      - echo "******** Delete S3 Bucket ********"
-      - aws s3 rm s3://acloud.ninja --recursive
       - echo "******** Uploading to S3 ********"
       - aws s3 sync _site/ s3://acloud.ninja
