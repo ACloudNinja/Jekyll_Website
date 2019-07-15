@@ -12,7 +12,7 @@ This post provides a set of commands on how to configure Amazon Web Services Com
 
 #### Requirements
 The following list defines the technologies, tools and credentials required to configure the AWS CLI tool:
-* AWS Account & Credentials.</li>
+* AWS Account & Credentials.
 * Installed AWS CLI tool. ([AWS CLI on macOS][1])
 * iTerm or Terminal. ([iTerm2 on macOS][2])
 
