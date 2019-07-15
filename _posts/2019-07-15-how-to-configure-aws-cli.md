@@ -12,8 +12,11 @@ This post provides a set of commands on how to configure Amazon Web Services Com
 
 #### Requirements
 The following list defines the technologies, tools and credentials required to configure the AWS CLI tool:
+
 * AWS Account & Credentials.
+
 * Installed AWS CLI tool. ([AWS CLI on macOS][1])
+
 * iTerm or Terminal. ([iTerm2 on macOS][2])
 
 #### What is AWS CLI?
@@ -28,7 +31,9 @@ AWS Secret Access Key [****************BQWW]: ***********
 Default region name [us-east-1]: eu-west-1
 Default output format [json]: json
 </pre>
+
 **Default Region**: For a list of available regions, see [AWS Regions and Endpoints][3]. 
+
 **Default Output**: The default output format can be either *json*, *text*, or *table*.
 
 #### AWS Configuration Files
