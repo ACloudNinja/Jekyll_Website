@@ -13,9 +13,9 @@ This post provides a set of commands on how to configure Amazon Web Services Com
 #### Requirements
 The following list defines the technologies, tools and credentials required to configure the AWS CLI tool:
 
-- AWS Account & Credentials.
-- Installed AWS CLI tool. ([AWS CLI on macOS][1])
-- iTerm or Terminal. ([iTerm2 on macOS][2])
+-AWS Account & Credentials.
+-Installed AWS CLI tool. ([AWS CLI on macOS][1])
+-iTerm or Terminal. ([iTerm2 on macOS][2])
 
 #### What is AWS CLI?
 AWS CLI is an open source tool that enables AWS Platform users to communicate and issue commands to their services. The command line tool enables users to invoke the AWS Platform services via the different public APIs. The authentication and other security mechanisms are abstracted away from the user by configuring the AWS CLI with he user's access key and secret. Furthermore, it provides higher level operations by combining the finer grained public APIs of the AWS Services into simple operations. These higher level operations will be more natural to use for a user. Users can now manage their AWS Services by creating shell scripts and automate simple and complex tasks alike.
